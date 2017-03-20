@@ -1,0 +1,23 @@
+{
+  "name": "happynumber",
+  "version": "1.0.0",
+  "description": "This is a node.js port of the Happy Number generator.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robsnell72/happyNumber.git"
+  },
+  "author": "Rob Snell",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/robsnell72/happyNumber/issues"
+  },
+  "homepage": "https://github.com/robsnell72/happyNumber#readme",
+  "dependencies": {
+    "express": "^4.15.2",
+    "sprintf-js": "^1.0.3"
+  }
+}
